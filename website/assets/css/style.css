@@ -1,3 +1,15 @@
 body{
     background: #BDBDBD;
 }
+#tagline{
+    margin-top: 50px;
+    background-color: rgb(250, 235, 215, 0.3);
+    
+}
+#jumbotron{
+    margin-right: -13px;
+    margin-left: -13px; 
+}
+#jumbotron2{
+    padding: 0;
+}
